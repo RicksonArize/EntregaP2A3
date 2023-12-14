@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    font-family: 'Roboto';
+}
+
+body{
+    background: linear-gradient(135deg, rgb(2, 2, 2) 0%, rgb(52, 52, 52) 100%);
+}

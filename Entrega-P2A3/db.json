@@ -1,0 +1,190 @@
+{
+  "dadosLogin": [
+    {
+      "id": 1,
+      "email": "123",
+      "senha": "123"
+    },
+    {
+      "email": "123",
+      "senha": "123",
+      "id": 2
+    },
+    {
+      "email": "joao@gmail.com",
+      "senha": "123",
+      "id": 3
+    },
+    {
+      "email": "joao@gmail.com",
+      "senha": "123",
+      "id": 4
+    },
+    {
+      "email": "joao@gmail.com",
+      "senha": "123",
+      "id": 5
+    },
+    {
+      "email": "joao@gmail.com",
+      "senha": "123",
+      "id": 6
+    },
+    {
+      "email": "joao@gmail.com",
+      "senha": "123",
+      "id": 7
+    },
+    {
+      "email": "joao@gmail.com",
+      "senha": "123",
+      "id": 8
+    },
+    {
+      "email": "joao@gmail.com",
+      "senha": "123",
+      "id": 9
+    },
+    {
+      "email": "joao@gmail.com",
+      "senha": "123",
+      "id": 10
+    },
+    {
+      "email": "joao@gmail.com",
+      "senha": "123",
+      "id": 11
+    },
+    {
+      "email": "joao@gmail.com",
+      "senha": "123",
+      "id": 12
+    },
+    {
+      "email": "joao@gmail.com",
+      "senha": "123",
+      "id": 13
+    },
+    {
+      "email": "joao@gmail.com",
+      "senha": "123",
+      "id": 14
+    },
+    {
+      "email": "123",
+      "senha": "123",
+      "id": 15
+    }
+  ],
+  "jogos": [
+    {
+      "nome": "Dead Cells",
+      "categoria": [
+        {}
+      ],
+      "plataforma": {},
+      "status": {},
+      "nota": {},
+      "urlFoto": "https://cdn2.unrealengine.com/egs-deadcells-motiontwin-s1-2560x1440-312502186.jpg",
+      "id": 1
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "categoria": "RPG"
+    },
+    {
+      "id": 2,
+      "categoria": "Estratégia"
+    },
+    {
+      "id": 3,
+      "categoria": "Indie"
+    },
+    {
+      "id": 4,
+      "categoria": "FPS"
+    },
+    {
+      "id": 5,
+      "categoria": "Outras"
+    }
+  ],
+  "plataformas": [
+    {
+      "nomePlataforma": "Steam",
+      "urlPlataforma": "https://store.steampowered.com",
+      "id": 1
+    },
+    {
+      "nomePlataforma": "Epic Games",
+      "urlPlataforma": "https://store.epicgames.com/pt-BR/",
+      "id": 2
+    },
+    {
+      "nomePlataforma": "Xbox",
+      "urlPlataforma": "www.xbox.com/pt-BR",
+      "id": 3
+    },
+    {
+      "urlPlataforma": "https://www.playstation.com/pt-br/ps-plus/",
+      "nomePlataforma": "Playstation",
+      "id": 4
+    },
+    {
+      "name": "1233333333",
+      "url": "31233333333",
+      "id": 5
+    },
+    {
+      "nomePlataforma": "123123",
+      "urlPlataforma": "123123123",
+      "id": 6
+    }
+  ],
+  "status": [
+    {
+      "id": 1,
+      "status": "Jogando"
+    },
+    {
+      "id": 2,
+      "status": "Joguei"
+    },
+    {
+      "id": 3,
+      "status": "Zerei"
+    },
+    {
+      "id": 4,
+      "status": "Não recomendo"
+    },
+    {
+      "id": 5,
+      "status": "Recomendo"
+    }
+  ],
+  "notas": [
+    {
+      "id": 1,
+      "nota": 1
+    },
+    {
+      "id": 2,
+      "nota": 2
+    },
+    {
+      "id": 3,
+      "nota": 3
+    },
+    {
+      "id": 4,
+      "nota": 4
+    },
+    {
+      "id": 5,
+      "nota": 5
+    }
+  ]
+}
