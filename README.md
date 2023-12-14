@@ -1,4 +1,4 @@
 # EntregaP2A3
-npm i
-npm run deve
-npm start
+@ npm i
+@ npm run deve
+@ npm start
